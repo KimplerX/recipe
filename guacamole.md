@@ -3,6 +3,6 @@
 * avocado
 * lime
 * salt
-## Instructions#Guacamole
-##Recipe
-##Instruction
+## Instructions
+* peel the avocados# Guacamole
+
